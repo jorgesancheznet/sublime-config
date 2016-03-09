@@ -1,0 +1,43 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Autoprefixer",
+		"Babel",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"Git Config",
+		"Gitignore",
+		"HTMLBeautify",
+		"INI",
+		"jQuery",
+		"jQueryDocs",
+		"JsFormat",
+		"JSHint",
+		"Package Control",
+		"Phpcs",
+		"PhpDoc",
+		"Sass",
+		"SideBarEnhancements",
+		"sublime-github",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-php",
+		"Tag",
+		"Terminal",
+		"Theme - Glacier",
+		"Theme - itg.flat",
+		"TrailingSpaces",
+		"View In Browser",
+		"Xdebug Client"
+	]
+}
