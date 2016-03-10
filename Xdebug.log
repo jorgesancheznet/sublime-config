@@ -1,0 +1,5 @@
+[03/10/2016 03:59:00PM] INFO - ==== Loading 'Xdebug Client.sublime-package' package ====
+[03/10/2016 03:59:00PM] INFO - Failed to open /Users/jorge/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.breakpoints.
+[03/10/2016 03:59:00PM] INFO - Failed to parse /Users/jorge/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.breakpoints.
+[03/10/2016 03:59:00PM] INFO - Failed to open /Users/jorge/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.expressions.
+[03/10/2016 03:59:00PM] INFO - Failed to parse /Users/jorge/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.expressions.
